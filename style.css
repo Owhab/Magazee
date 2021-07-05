@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+    font-family: 'Open Sans', sans-serif;
+}
+.magazee-sec{
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    width: 40%;
+    background-color: #993333;
+    height: 300px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card h1{
+    font-size: 40px;
+    color: white;
+}
+.content{
+    display: flex;
+    width: 40%;
+    background-color: ivory;
+    height: 300px;
+    padding: 50px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.8;
+    
+}
+
+.magazee-sec2{
+    display: flex;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+
+}
+a{
+    background-color: #993333;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: ivory;
+}
+.content2{
+    height: 300px;
+    width: 40%;
+    background-color: ivory;
+    padding: 50px;
+    
+    
+
+}
+.content2 p{
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    margin-top: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 400;
+}
+.card-2{
+    justify-content: center;
+    width: 40%;
+    height: 300px;
+    background-color: #993333;
+    padding: 50px;
+}
+.card-2 img{
+    border-radius: 50%;
+    height: 100px;
+    text-align: center;
+}
